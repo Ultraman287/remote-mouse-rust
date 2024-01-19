@@ -1,0 +1,13 @@
+[debug]
+address = "localhost"
+port = 8000
+keep_alive = 5
+log = "debug"
+limits = { forms = 32768 }
+
+[release]
+address = "localhost"
+port = 8000
+keep_alive = 5
+log = "debug"
+limits = { forms = 32768 }
