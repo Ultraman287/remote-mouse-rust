@@ -1,12 +1,12 @@
 [debug]
-address = "192.168.54.20"
+address = "172.29.115.108"
 port = 8000
 keep_alive = 5
 log = "debug"
 limits = { forms = 32768 }
 
 [release]
-address = "192.168.54.20"
+address = "172.29.115.108"
 port = 8000
 keep_alive = 5
 log = "debug"
